@@ -74,10 +74,7 @@ namespace Senparc.Weixin.WxOpen
 
 
             //注释，测试用例
-            //注释，测试用例22222
-
-
-
+            //注释，测试用例222224343
             try
             {
                 msgType = MsgTypeHelper.GetRequestMsgType(doc);
